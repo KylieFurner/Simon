@@ -10,7 +10,6 @@ I used py arcade, arcade.gui, the random library and the time library to create 
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [arcade academy](https://api.arcade.academy/en/stable/tutorials/views/index.html)
 * [geeks for geeks](https://www.geeksforgeeks.org/python-arcade-adding-buttons/)
 
